@@ -1,3 +1,4 @@
+//c program to calculate the electricity bill 
 #include<stdio.h>
 int main(){
 int CustomerId,Units;
