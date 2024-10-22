@@ -1,3 +1,4 @@
+//c program to calculate loans 
 #include<stdio.h>
 int main(){
 int age;
